@@ -30,7 +30,7 @@ Atuo com foco em eficiência, automação e boas práticas de engenharia de soft
 
 ## 📫 Contato
 - 💼 LinkedIn: [linkedin.com/in/samuel-martins-melo](https://www.linkedin.com/in/samuel-martins-melo/)
-- 🐙 GitHub: [github.com/Sam-Melo](https://github.com/Sam-Melo)
+- ✉️ Email: **samuelmartinsdem@gmail.com**
 
 ---
 
